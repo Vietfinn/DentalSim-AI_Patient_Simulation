@@ -59,7 +59,7 @@ const RegisterPage = () => {
       <div className="card auth-card" style={{ maxWidth: '520px', padding: '32px' }}>
         <div className="auth-header" style={{ marginBottom: '24px' }}>
           <div style={{ margin: '0 auto 16px', display: 'flex', justifyContent: 'center' }}>
-            <img src={`${API_URL}/static/images/logo.png`} alt="DentalSim Logo" style={{ height: '64px', width: 'auto', borderRadius: '12px' }} />
+            <img src={`${API_URL}/static/images/logo.png`} alt="DentalSim Logo" style={{ height: '64px', width: 'auto', borderRadius: '16px' }} />
           </div>
           <h2 className="auth-title" style={{ fontSize: '24px' }}>Tạo tài khoản học viên</h2>
           <p className="auth-subtitle">Tham gia huấn luyện kỹ năng khai thác bệnh lịch nha khoa</p>

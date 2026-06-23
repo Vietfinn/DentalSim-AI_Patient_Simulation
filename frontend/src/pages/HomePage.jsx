@@ -13,7 +13,7 @@ const HomePage = () => {
       {/* Navigation Top Bar */}
       <nav style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', height: '80px', borderBottom: '1px solid var(--neutral-200)' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-          <img src={`${API_URL}/static/images/logo.png`} alt="DentalSim Logo" style={{ height: '36px', width: 'auto', borderRadius: '6px' }} />
+          <img src={`${API_URL}/static/images/logo.png`} alt="DentalSim Logo" style={{ height: '36px', width: 'auto', borderRadius: '8px' }} />
           <span style={{ fontFamily: 'var(--font-display)', fontSize: '20px', fontWeight: 800, color: 'var(--neutral-900)' }}>
             DentalSim AI
           </span>
@@ -72,7 +72,7 @@ const HomePage = () => {
 
         <div className="hero-illustration">
           <div className="pulse-circle" style={{ overflow: 'hidden', padding: '16px', backgroundColor: '#fff', borderRadius: '24px', boxShadow: 'var(--shadow-md)' }}>
-            <img src={`${API_URL}/static/images/logo_with_name.png`} alt="DentalSim AI Hero Logo" style={{ width: '100%', height: '100%', objectFit: 'contain' }} onError={(e) => { e.target.src = `${API_URL}/static/images/logo.png` }} />
+            <img src={`${API_URL}/static/images/logo_with_name.png`} alt="DentalSim AI Hero Logo" style={{ width: '100%', height: '100%', objectFit: 'contain', borderRadius: '16px' }} onError={(e) => { e.target.src = `${API_URL}/static/images/logo.png` }} />
           </div>
         </div>
       </section>

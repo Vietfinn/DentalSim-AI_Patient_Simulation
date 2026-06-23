@@ -56,7 +56,7 @@ const LoginPage = () => {
       <div className="card auth-card">
         <div className="auth-header">
           <div style={{ margin: '0 auto 16px', display: 'flex', justifyContent: 'center' }}>
-            <img src={`${API_URL}/static/images/logo.png`} alt="DentalSim Logo" style={{ height: '64px', width: 'auto', borderRadius: '12px' }} />
+            <img src={`${API_URL}/static/images/logo.png`} alt="DentalSim Logo" style={{ height: '64px', width: 'auto', borderRadius: '16px' }} />
           </div>
           <h2 className="auth-title">Đăng nhập DentalSim</h2>
           <p className="auth-subtitle">Trình mô phỏng khám Nha khoa Lâm sàng AI</p>

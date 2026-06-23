@@ -33,7 +33,7 @@ const Sidebar = () => {
   return (
     <aside className="app-sidebar">
       <div className="sidebar-header" style={{ gap: '10px' }}>
-        <img src={`${API_URL}/static/images/logo.png`} alt="DentalSim Logo" style={{ height: '32px', width: 'auto', borderRadius: '4px' }} />
+        <img src={`${API_URL}/static/images/logo.png`} alt="DentalSim Logo" style={{ height: '32px', width: 'auto', borderRadius: '8px' }} />
         <Link to="/" style={{ textDecoration: 'none' }}>
           <span className="sidebar-logo">DentalSim AI</span>
         </Link>
