@@ -19,6 +19,7 @@ class Settings(BaseSettings):
     def assemble_db_url(cls, v: str) -> str:
         if not v:
             return v
+        v = v.strip()
         
         # Automatically adapt Supabase direct connection string (IPv6 only)
         # into the shared pooler connection string (IPv4 compatible, session mode on port 5432)
