@@ -7,6 +7,7 @@ import asyncio
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from sqlalchemy import select
+from app.config import settings
 from app.database import AsyncSessionLocal, engine, Base
 from app.models.case import ClinicalCase
 
@@ -45,13 +46,17 @@ async def seed():
                 "medical_history": patient.get("medical_history", "Không có tiền sử đặc biệt.")
             }
 
-            # Normalize assets/images/path to be static served path
+            # Resolve image URLs based on database type (PostgreSQL on Supabase vs local SQLite)
             image_url = item.get("image_url", "")
-            if image_url.startswith("assets/images/"):
-                # E.g., assets/images/ENDO_01.jpg -> /static/images/ENDO_01.jpg
-                image_url = image_url.replace("assets/images/", "/static/images/")
-            elif image_url.startswith("assets/"):
-                image_url = image_url.replace("assets/", "/static/")
+            if "postgresql" in settings.DATABASE_URL or "postgres" in settings.DATABASE_URL:
+                filename = os.path.basename(image_url)
+                # E.g. https://yasvogfmumnnqfojgnnf.supabase.co/storage/v1/object/public/assets/ENDO_01.jpg
+                image_url = f"https://yasvogfmumnnqfojgnnf.supabase.co/storage/v1/object/public/assets/{filename}"
+            else:
+                if image_url.startswith("assets/images/"):
+                    image_url = image_url.replace("assets/images/", "/static/images/")
+                elif image_url.startswith("assets/"):
+                    image_url = image_url.replace("assets/", "/static/")
 
             case_dict = {
                 "case_code": case_code,
