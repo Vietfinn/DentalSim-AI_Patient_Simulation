@@ -1,7 +1,7 @@
 import os
 from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
-from typing import Optional
+from typing import Optional, Any
 
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
@@ -43,7 +43,7 @@ class Settings(BaseSettings):
             return v.replace("postgresql://", "postgresql+asyncpg://", 1)
         return v
     REDIS_URL: Optional[str] = None
-    ALLOWED_ORIGINS: list[str] = ["http://localhost:5173", "http://127.0.0.1:5173"]
+    ALLOWED_ORIGINS: Any = ["http://localhost:5173", "http://127.0.0.1:5173"]
     
     @field_validator("ALLOWED_ORIGINS", mode="before")
     @classmethod
