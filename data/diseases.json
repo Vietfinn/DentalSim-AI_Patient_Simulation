@@ -338,5 +338,515 @@
     "logic": "Răng số 6 mọc từ năm 6 tuổi có lỗ sâu vỡ rất lớn. Bể mặt lỗ sâu bị lấp đầy bởi một khối mô mềm màu đỏ, sờ vướng nhưng KHÔNG ĐAU. Dùng thám trâm vén nhẹ thấy khối mô này mọc ra trực tiếp từ buồng tủy. Răng chưa đóng kín chóp.",
     "diagnosis": "Viêm tủy mạn tăng sinh (Polyp tủy)",
     "explanation": "Đặc trưng ở răng trẻ em có buồng tủy rộng, mô tủy giàu mạch máu và hệ miễn dịch tốt. Khi sâu vỡ lộ tủy lâu ngày, tủy không hoại tử ngay mà phản ứng tăng sinh tạo thành khối Polyp."
+  },
+  {
+    "id": "ENDO_07",
+    "image_url": "assets/images/ENDO_07.jpg",
+    "category": "Nội Nha",
+    "name": "Viêm tủy không hồi phục (Mạn)",
+    "patient": {
+      "name": "Phan Hoàng Long",
+      "age": 31,
+      "gender": "Nam",
+      "complaint": "Răng hàm nhai đau âm ỉ lâu lâu nhói lên, ăn đồ nóng rất buốt",
+      "medical_history": "Không có bệnh nền, vệ sinh răng miệng trung bình."
+    },
+    "ai_persona": "Kiên nhẫn nhưng mệt mỏi. Trả lời chậm rãi. Giải thích đau không dữ dội như đau cấp tính nhưng kéo dài âm ỉ làm mất tập trung khi làm việc. Nhạy cảm khi uống trà nóng.",
+    "logic": "Răng 36 có lỗ sâu lớn mặt bên. Đau âm ỉ tự phát, đặc biệt tăng nhiều khi nằm ngủ ban đêm. Thử nóng (nước ấm) gây buốt chói kéo dài hơn 1 phút, nhưng thử lạnh (đá) lại làm dịu bớt cơn đau tạm thời (đặc trưng viêm tủy mạn giai đoạn muộn). Gõ dọc đau nhẹ, gõ ngang không đau.",
+    "diagnosis": "Viêm tủy không hồi phục",
+    "explanation": "Đau tự phát âm ỉ kéo dài, đau tăng về đêm và phản ứng buốt chói kéo dài với nhiệt nóng (được làm dịu tạm thời bằng lạnh) chỉ điểm viêm tủy không hồi phục mạn tính."
+  },
+  {
+    "id": "ENDO_08",
+    "image_url": "assets/images/ENDO_08.jpg",
+    "category": "Nội Nha",
+    "name": "Viêm quanh chóp mạn",
+    "patient": {
+      "name": "Vũ Thị Cúc",
+      "age": 42,
+      "gender": "Nữ",
+      "complaint": "Răng cửa trên bị xỉn màu tối hơn các răng khác, sờ trên nướu thấy hơi cấn nhẹ",
+      "medical_history": "Từng chấn thương va đập răng cửa cách đây 8 năm."
+    },
+    "ai_persona": "Nhẹ nhàng, hợp tác. Lo lắng về vấn đề thẩm mỹ do răng cửa bị đen đi. Hoàn toàn không cảm thấy đau nhức gì ở hiện tại.",
+    "logic": "Răng 11 đổi màu xám sậm, không có lỗ sâu. Thử nhiệt (lạnh/nóng) và thử điện hoàn toàn âm tính (không có cảm giác). Gõ dọc/ngang không đau. Sờ ngách lợi vùng chóp răng hơi nề nhẹ nhưng không đau chói. X-quang hiển thị vùng thấu quang tròn có giới hạn rõ quanh chóp chân răng 11.",
+    "diagnosis": "Viêm quanh chóp mạn",
+    "explanation": "Răng đổi màu xám sậm sau chấn thương cũ, thử tủy âm tính (tủy hoại tử) và có tổn thương tiêu xương (thấu quang) vùng chóp trên phim X-quang không kèm đau cấp tính chẩn đoán xác định viêm quanh chóp mạn."
+  },
+  {
+    "id": "ENDO_09",
+    "image_url": "assets/images/ENDO_09.jpg",
+    "category": "Nội Nha",
+    "name": "Áp xe quanh chóp mạn",
+    "patient": {
+      "name": "Đặng Quốc Việt",
+      "age": 38,
+      "gender": "Nam",
+      "complaint": "Nướu răng trong cùng hàm trên nổi một nốt mụn mủ, thỉnh thoảng xẹp rồi lại nổi lên",
+      "medical_history": "Hút thuốc lá, ít đi khám nha khoa trừ khi đau."
+    },
+    "ai_persona": "Bình thản, nói chuyện tự nhiên. Kể rằng nốt mụn này không đau nhiều, cứ mỗi lần nó sưng to lên rồi vỡ ra chảy ít mủ/dịch là răng lại hết căng tức.",
+    "logic": "Răng 16 sâu vỡ lớn mất vách phía gần, tủy lộ hoại tử hoàn toàn (các test nhiệt/điện đều âm tính). Ngách lợi phía ngoài tương ứng chóp răng 16 có đường rò (fistula) đang rỉ dịch mủ màu vàng nhạt khi ấn nhẹ bờ nướu. Gõ dọc và gõ ngang không đau hoặc chỉ ê nhẹ.",
+    "diagnosis": "Áp xe quanh chóp mạn",
+    "explanation": "Tình trạng hoại tử tủy tiến triển phá hủy xương vùng chóp tạo ổ mủ thoát ra ngoài qua đường rò (sinus tract) ở nướu, đặc trưng bởi sự lặp đi lặp lại của sưng vỡ mủ và giảm áp tức thời không gây đau cấp."
+  },
+  {
+    "id": "ENDO_10",
+    "image_url": "assets/images/ENDO_10.jpg",
+    "category": "Nội Nha",
+    "name": "Đau dây thần kinh sinh ba (V)",
+    "patient": {
+      "name": "Trần Thị Xuân",
+      "age": 58,
+      "gender": "Nữ",
+      "complaint": "Đau nhói giật như điện giật một bên má và hàm dưới, mỗi lần đau chỉ vài giây",
+      "medical_history": "Cao huyết áp, thoái hóa khớp gối."
+    },
+    "ai_persona": "Cực kỳ lo lắng và sợ hãi. Mỗi lần nói chuyện hay cử động môi nhẹ cũng sợ bùng phát cơn đau. Nhấn mạnh đau giật bắn người, đau khủng khiếp nhưng biến mất rất nhanh.",
+    "logic": "Khám lâm sàng toàn bộ răng hàm dưới bên đau hoàn toàn nguyên vẹn, không sâu răng, nướu lành mạnh. Test gõ dọc/ngang âm tính. Test tủy (nhiệt/điện) bình thường ở tất cả các răng. Phát hiện vùng kích hoạt đau (trigger zone) ở khóe môi dưới khi chạm nhẹ. Không có tổn thương nha khoa thực thể.",
+    "diagnosis": "Đau dây thần kinh V",
+    "explanation": "Cơn đau kịch phát dạng điện giật/dao đâm ngắn vài giây kích hoạt bởi chạm nhẹ vùng mặt hoặc ăn nhai, trong khi hệ thống răng miệng hoàn toàn lành mạnh gợi ý đau dây thần kinh số V (Trigeminal Neuralgia)."
+  },
+  {
+    "id": "ENDO_11",
+    "image_url": "assets/images/ENDO_11.jpg",
+    "category": "Nội Nha",
+    "name": "Viêm tủy răng sữa",
+    "patient": {
+      "name": "Bé Nguyễn Minh Khang",
+      "age": 6,
+      "gender": "Nam",
+      "complaint": "Bé khóc quấy cả đêm vì đau răng hàm dưới bên trái, không chịu ăn uống",
+      "medical_history": "Bé rất thích ăn kẹo dẻo và lười chải răng buổi tối."
+    },
+    "ai_persona": "Nhút nhát, nép vào mẹ, mắt đỏ hoe vì thiếu ngủ. Khóc thút thít mỗi khi bác sĩ bảo há miệng. Mẹ bé đại diện kể triệu chứng bé kêu đau dữ dội khi ăn cơm và đau tự phát ban đêm.",
+    "logic": "Răng hàm sữa thứ hai hàm dưới trái (Răng 75) sâu vỡ lớn mặt nhai cận tủy. Khám thấy ngà mủn ẩm, xịt hơi nước buốt chói bé giật mình khóc to. Gõ dọc răng 75 đau nhẹ, lợi xung quanh hơi đỏ nhưng chưa sưng áp xe.",
+    "diagnosis": "Viêm tủy không hồi phục",
+    "explanation": "Đau tự phát dữ dội về đêm ở răng hàm sữa có tổn thương sâu sâu sát tủy biểu hiện tình trạng viêm tủy không hồi phục ở răng trẻ em."
+  },
+  {
+    "id": "PERIO_04",
+    "image_url": "assets/images/PERIO_04.jpg",
+    "category": "Nha Chu",
+    "name": "Áp xe nha chu cấp tính",
+    "patient": {
+      "name": "Lâm Quốc Bảo",
+      "age": 47,
+      "gender": "Nam",
+      "complaint": "Nướu răng sưng to đỏ rực, đau nhức liên tục và răng lung lay dữ dội",
+      "medical_history": "Tiền sử viêm nha chu mạn tính nhiều năm không điều trị triệt để."
+    },
+    "ai_persona": "Lo âu, căng thẳng vì sợ rụng mất răng. Tránh nhai bên đau. Cảm giác răng ê ẩm giật giật nhưng sưng phồng vùng nướu ngoài rõ rệt.",
+    "logic": "Lợi viền mặt ngoài răng 46 sưng phồng hình oval căng đỏ, sờ đau chói và có cảm giác phập phều chứa mủ. Răng 46 lung lay độ 2-3. Test tủy sống (dương tính). Túi nha chu sâu 7mm vùng kẽ răng 46, ấn chảy mủ đục từ cổ răng.",
+    "diagnosis": "Áp xe nha chu",
+    "explanation": "Áp xe hình thành cấp tính trong túi nha chu sâu có sẵn do tắc nghẽn đường thoát dịch viêm. Răng vẫn còn sống (tủy sống) giúp phân biệt với áp xe quanh chóp nguồn gốc từ tủy."
+  },
+  {
+    "id": "PERIO_05",
+    "image_url": "assets/images/PERIO_05.jpg",
+    "category": "Nha Chu",
+    "name": "Viêm lợi hoại tử loét cấp (NUG)",
+    "patient": {
+      "name": "Trịnh Công Sơn",
+      "age": 24,
+      "gender": "Nam",
+      "complaint": "Đau nướu dữ dội, chảy máu tự nhiên và miệng cực kỳ hôi",
+      "medical_history": "Đang ôn thi căng thẳng, thiếu ngủ trầm trọng, nghiện hút thuốc lá nặng."
+    },
+    "ai_persona": "Mệt mỏi, đau đớn rõ rệt khi nói chuyện. Hơi thở có mùi hôi đặc trưng nồng nặc khiến bệnh nhân e ngại khi giao tiếp.",
+    "logic": "Nhú lợi giữa các răng vùng cửa dưới bị hoại tử cụt đầu, phẳng dẹt, bao phủ bởi lớp giả mạc màu xám bẩn. Chạm nhẹ chảy máu thành dòng. Đau nhói liên tục. Có sốt nhẹ và nổi hạch dưới hàm.",
+    "diagnosis": "Viêm lợi hoại tử loét cấp (NUG)",
+    "explanation": "Đặc trưng bởi tổn thương hoại tử loét cụt đầu ở nhú nướu, cực kỳ đau nhức, miệng hôi thối đặc trưng và thường xảy ra trên bệnh nhân stress, hút thuốc lá hoặc suy giảm miễn dịch."
+  },
+  {
+    "id": "PERIO_06",
+    "image_url": "assets/images/PERIO_06.jpg",
+    "category": "Nha Chu",
+    "name": "Phì đại lợi do thuốc",
+    "patient": {
+      "name": "Nguyễn Thị Hoa",
+      "age": 52,
+      "gender": "Nữ",
+      "complaint": "Nướu răng cứ phì đại to dần ra nuốt cả răng, không đau nhưng mất thẩm mỹ và khó nhai",
+      "medical_history": "Suy thận mạn, đang dùng thuốc chống thải ghép Cyclosporin và thuốc huyết áp Amlodipine."
+    },
+    "ai_persona": "Bình thường, chia sẻ cởi mở. Giải thích tình trạng lợi sưng to xuất hiện từ khi đổi sang uống thuốc huyết áp mới cách đây 6 tháng.",
+    "logic": "Lợi viền và nhú lợi phì đại xơ chắc, màu hồng nhạt lành mạnh, bề mặt dạng thùy múi che phủ hơn 1/2 thân răng ở cả hàm trên và hàm dưới. Lợi không tự chảy máu, không đau khi ấn. Mảng bám vi khuẩn tích tụ nhiều dưới các kẽ lợi phì đại.",
+    "diagnosis": "Phì đại lợi do thuốc",
+    "explanation": "Sự tăng sinh mô liên kết nướu do tác dụng phụ của các thuốc điều trị toàn thân (như Cyclosporin, Amlodipine, Phenytoin), tạo hình ảnh lợi phì đại xơ chắc không đau."
+  },
+  {
+    "id": "PERIO_07",
+    "image_url": "assets/images/PERIO_07.jpg",
+    "category": "Nha Chu",
+    "name": "Viêm quanh implant",
+    "patient": {
+      "name": "Lý Hoàng Nam",
+      "age": 60,
+      "gender": "Nam",
+      "complaint": "Vùng lợi xung quanh răng giả Implant mới cấy sưng đỏ, chảy máu khi đánh răng",
+      "medical_history": "Mất răng 46 và cấy Implant cách đây 2 năm. Có tiền sử hút thuốc lá nhẹ."
+    },
+    "ai_persona": "Lo lắng vì đã bỏ nhiều tiền làm Implant nhưng nay lại bị sưng đau, sợ phải nhổ bỏ Implant.",
+    "logic": "Vùng nướu bao quanh cổ abument Implant răng 46 đỏ rực, sưng nề. Thăm dò bằng cây đo nha chu sâu 6mm quanh trụ Implant, có chảy máu và ít dịch mủ thoát ra. Chụp phim quanh chóp thấy tiêu xương ổ răng hình chén quanh các ren của Implant khoảng 3 ren.",
+    "diagnosis": "Viêm quanh implant",
+    "explanation": "Nhiễm trùng khu trú phá hủy mô nướu và tiêu xương nâng đỡ xung quanh trụ Implant đang chịu lực, biểu hiện qua sưng chảy máu nướu và tiêu xương trên X-quang."
+  },
+  {
+    "id": "SURG_04",
+    "image_url": "assets/images/SURG_04.jpg",
+    "category": "Phẫu Thuật",
+    "name": "U hạt sinh mủ ở lợi (Pyogenic Granuloma)",
+    "patient": {
+      "name": "Hoàng Minh Thư",
+      "age": 28,
+      "gender": "Nữ",
+      "complaint": "Nướu răng cửa nổi một cục thịt đỏ hồng, rất dễ chảy máu khi ăn nhai hoặc đánh răng",
+      "medical_history": "Đang mang thai tháng thứ 6, vệ sinh răng miệng kém do nghén."
+    },
+    "ai_persona": "Lo lắng nhẹ nhưng hợp tác tốt. Kể rằng cục thịt này xuất hiện từ lúc mang thai và to dần lên, cắn đồ ăn mềm cũng ra máu đỏ.",
+    "logic": "Khám thấy khối u nhỏ dạng cuống có kích thước khoảng 1cm ở nhú nướu giữa răng 11 và 12. Khối màu đỏ tươi, bề mặt hơi loét nhẹ, sờ vào mềm và cực kỳ dễ chảy máu. Răng lân cận gõ không đau, không lung lay.",
+    "diagnosis": "U hạt sinh mủ",
+    "explanation": "Sự tăng sinh mạch máu và mô liên kết quá mức phản ứng với kích thích tại chỗ (cao răng) dưới ảnh hưởng của thay đổi nội tiết tố thai kỳ (Pregnancy tumor / Pyogenic granuloma)."
+  },
+  {
+    "id": "SURG_05",
+    "image_url": "assets/images/SURG_05.jpg",
+    "category": "Phẫu Thuật",
+    "name": "Nang chân răng (Radicular Cyst)",
+    "patient": {
+      "name": "Nguyễn Văn Hùng",
+      "age": 49,
+      "gender": "Nam",
+      "complaint": "Xương hàm vùng răng cửa dưới phồng nhẹ mặt ngoài, sờ thấy hơi cứng nhưng không đau",
+      "medical_history": "Răng cửa dưới từng bị chấn thương mẻ lớn nhưng tự hết đau lâu rồi."
+    },
+    "ai_persona": "Bình thản, đi khám chủ yếu vì thấy một bên nướu gồ lên bất thường. Không hề cảm thấy đau nhức hay ê buốt.",
+    "logic": "Răng 31 bị đổi màu xám nhẹ, thử tủy âm tính (hoại tử tủy lâu ngày). Sờ bản xương mặt ngoài tương ứng chóp răng 31 thấy phồng nhẹ, có cảm giác lún nhẹ khi ấn mạnh (dấu hiệu bóng bàn). Phim X-quang quanh chóp thấy vùng thấu quang rất lớn (>1.5cm) hình tròn viền cản quang mảnh rõ nét bao quanh chóp chân răng 31.",
+    "diagnosis": "Nang chân răng",
+    "explanation": "Nang do viêm nguồn gốc từ biểu mô Malassez vùng chóp của một răng chết tủy không điều trị, tiến triển âm thầm tiêu xương tạo nang xương hàm có viền cản quang đặc trưng trên phim."
+  },
+  {
+    "id": "SURG_06",
+    "image_url": "assets/images/SURG_06.jpg",
+    "category": "Phẫu Thuật",
+    "name": "Răng ngầm cản trở khớp cắn",
+    "patient": {
+      "name": "Lê Bảo Lâm",
+      "age": 18,
+      "gender": "Nam",
+      "complaint": "Hàm trên thiếu một chiếc răng nanh mãi không mọc, các răng bên cạnh bị xô lệch",
+      "medical_history": "Sức khỏe tốt, không có tiền sử bệnh lý."
+    },
+    "ai_persona": "Cởi mở, mong muốn chỉnh nha cải thiện nụ cười. Kể rằng răng sữa rụng lâu rồi nhưng răng vĩnh viễn không chịu mọc lên.",
+    "logic": "Khám cung răng trên thiếu răng vĩnh viễn 13 (răng nanh phải). Răng sữa 53 đã rụng. Răng 12 và 14 đổ nghiêng về khoảng trống. Sờ thấy gờ xương cứng phồng nhẹ ở mặt trong khẩu cái tương ứng răng 13. Phim Panorama phát hiện răng vĩnh viễn 13 nằm ngầm hoàn toàn trong xương hàm theo chiều chếch nghiêng đâm vào chân răng 12.",
+    "diagnosis": "Răng ngầm",
+    "explanation": "Răng vĩnh viễn bị kẹt trong xương hàm hoặc mô mềm quá thời gian mọc bình thường, chẩn đoán xác định dựa vào thiếu răng trên cung hàm và hình ảnh răng ngầm cản quang trên phim X-quang."
+  },
+  {
+    "id": "SURG_07",
+    "image_url": "assets/images/SURG_07.jpg",
+    "category": "Phẫu Thuật",
+    "name": "Gãy xương hàm dưới",
+    "patient": {
+      "name": "Võ Văn Quyết",
+      "age": 29,
+      "gender": "Nam",
+      "complaint": "Đau chói góc hàm trái, cắn hai hàm lại thấy lệch khớp hoàn toàn sau tai nạn xe máy",
+      "medical_history": "Tai nạn giao thông cách đây 4 tiếng, đã chụp CT đầu loại trừ chấn thương sọ não."
+    },
+    "ai_persona": "Đau đớn nhiều, lấy tay đỡ cằm khi di chuyển. Giọng nói ngọng nghịu khó nghe do đau và sưng nề góc hàm. Nước bọt có lẫn ít máu đỏ loãng.",
+    "logic": "Sưng nề, bầm tím vùng góc hàm trái ngoài da. Khám trong miệng thấy lệch khớp cắn rõ rệt, rách lợi chảy máu vùng răng hàm lớn hàm dưới trái. Ấn dọc bờ dưới xương hàm dưới thấy điểm đau chói và có tiếng lạo xạo xương (crepitus). Phim X-quang panorama thấy đường mất liên tục của xương hàm dưới đi qua vùng góc hàm trái.",
+    "diagnosis": "Gãy xương hàm",
+    "explanation": "Tiền sử chấn thương lực mạnh kết hợp lệch khớp cắn đột ngột, đau chói, rách lợi xương hàm mất liên tục củng cố chẩn đoán xác định gãy xương hàm dưới."
+  },
+  {
+    "id": "PATH_03",
+    "image_url": "assets/images/PATH_03.jpg",
+    "category": "Bệnh Lý Miệng",
+    "name": "Bạch sản niêm mạc miệng",
+    "patient": {
+      "name": "Nguyễn Hữu Đạt",
+      "age": 55,
+      "gender": "Nam",
+      "complaint": "Mặt trong má có mảng màu trắng sần sùi nhẹ, không đau nhưng cấn lưỡi",
+      "medical_history": "Hút thuốc lá lào hơn 30 năm, uống rượu thường xuyên."
+    },
+    "ai_persona": "Lo lắng sợ bị ung thư vòm họng do tuổi cao và thói quen hút thuốc nặng. Kể rằng mảng này xuất hiện từ lâu và không tự biến mất.",
+    "logic": "Khám niêm mạc má trái (dọc đường nhai) có mảng màu trắng đục, kích thước 2x2.5cm, bề mặt hơi sần sùi nhẹ, giới hạn không đều. Dùng gạc lau CỐ CẠO NHƯNG KHÔNG BONG, nền niêm mạc xung quanh bình thường, đáy mềm mại không thâm nhiễm xơ cứng.",
+    "diagnosis": "Bạch sản niêm mạc",
+    "explanation": "Mảng trắng niêm mạc miệng không cạo bong được, không thể chẩn đoán lâm sàng hay giải phẫu bệnh là bất kỳ bệnh lý nào khác, liên quan chặt chẽ với kích thích thuốc lá (Tổn thương tiền ung thư)."
+  },
+  {
+    "id": "PATH_04",
+    "image_url": "assets/images/PATH_04.jpg",
+    "category": "Bệnh Lý Miệng",
+    "name": "Lichen phẳng niêm mạc miệng (Lichen Planus)",
+    "patient": {
+      "name": "Bùi Thị Lan",
+      "age": 45,
+      "gender": "Nữ",
+      "complaint": "Cảm giác rát nhẹ khi ăn đồ mặn, chua ở cả hai bên má trong",
+      "medical_history": "Mới phát hiện đái tháo đường, thường xuyên căng thẳng lo âu."
+    },
+    "ai_persona": "E dè, hay than thở về cuộc sống stress dạo này. Nói ăn cơm hay ăn canh chua là thấy râm ran rát hai bên má.",
+    "logic": "Khám niêm mạc má hai bên có những dải/đường màu trắng mảnh đan xen nhau như mạng lưới (Vạch Wickham) đối xứng hai bên. Nền niêm mạc má xung quanh hơi đỏ nhẹ. Không có tổn thương loét hay trợt da nướu. Sờ mềm mại không đau.",
+    "diagnosis": "Lichen phẳng",
+    "explanation": "Tổn thương dạng lưới trắng Wickham Striae đối xứng hai bên má trong, kèm rát nhẹ khi tiếp xúc đồ ăn kích thích, là biểu hiện điển hình của bệnh tự miễn Lichen phẳng niêm mạc miệng dạng lưới."
+  },
+  {
+    "id": "PATH_05",
+    "image_url": "assets/images/PATH_05.jpg",
+    "category": "Bệnh Lý Miệng",
+    "name": "Khô miệng do hội chứng Sjögren",
+    "patient": {
+      "name": "Nguyễn Thị Thảo",
+      "age": 50,
+      "gender": "Nữ",
+      "complaint": "Miệng cực kỳ khô rát, ăn đồ khô phải uống nước liên tục mới nuốt được, mắt cũng bị khô",
+      "medical_history": "Viêm khớp dạng thấp đang uống thuốc kháng viêm."
+    },
+    "ai_persona": "Thều thào, nói chuyện một lúc phải xin uống nước vì khô họng. Than phiền môi khô nứt nẻ và lưỡi rát đỏ từ nhiều tháng nay.",
+    "logic": "Niêm mạc miệng khô ráp, mất bóng láng, gương khám dính vào niêm mạc má do thiếu nước bọt. Lưng lưỡi mất nhú nướu đỏ rực, nứt nẻ. Sâu răng lan tràn ở vùng cổ nhiều răng cửa và răng hàm. Không có sưng đau tuyến nước bọt rõ rệt.",
+    "diagnosis": "Khô miệng",
+    "explanation": "Khô miệng trầm trọng kèm khô mắt ở phụ nữ tuổi trung niên có bệnh lý tự miễn khớp dạng thấp gợi ý hội chứng Sjögren gây giảm tiết nước bọt hệ thống."
+  },
+  {
+    "id": "PATH_06",
+    "image_url": "assets/images/PATH_06.jpg",
+    "category": "Bệnh Lý Miệng",
+    "name": "Viêm tuyến nước bọt mang tai cấp",
+    "patient": {
+      "name": "Trần Tuấn Anh",
+      "age": 35,
+      "gender": "Nam",
+      "complaint": "Sưng to đau nhức vùng góc hàm dưới tai một bên, sốt mệt mỏi, nuốt đau",
+      "medical_history": "Không có bệnh lý nền."
+    },
+    "ai_persona": "Đau đớn và mệt mỏi, người hâm hấp sốt. Ôm góc hàm bên sưng, há miệng đau nhói góc tai.",
+    "logic": "Khám vùng tuyến mang tai phải sưng nề to căng bóng đỏ, sờ nóng và đau chói. Trong miệng, lỗ ống tuyến Stenon (nằm ở niêm mạc má tương ứng răng cối lớn thứ hai hàm trên) đỏ rực sưng nề. Ấn từ ngoài vào vùng tuyến mang tai thấy mủ đục chảy ra qua lỗ ống Stenon.",
+    "diagnosis": "Viêm tuyến nước bọt",
+    "explanation": "Sưng nóng đỏ đau cấp tính vùng tuyến nước bọt mang tai một bên, lỗ đổ Stenon viêm đỏ và có mủ chảy ra khi vuốt tuyến chẩn đoán viêm tuyến nước bọt mang tai do vi khuẩn."
+  },
+  {
+    "id": "TRAUMA_03",
+    "image_url": "assets/images/TRAUMA_03.jpg",
+    "category": "Chấn Thương",
+    "name": "Lún răng chấn thương",
+    "patient": {
+      "name": "Bé Phạm Gia Huy",
+      "age": 8,
+      "gender": "Nam",
+      "complaint": "Răng cửa trên bị thụt ngắn hẳn đi sau khi đập mặt vào thành hồ bơi",
+      "medical_history": "Tai nạn cách đây 1 giờ, trẻ tỉnh táo, không nôn ói."
+    },
+    "ai_persona": "Sợ hãi, khóc nấc nhẹ. Mẹ bé đi cùng kể lại sự việc trong sự lo lắng tột độ, liên tục hỏi răng có tự mọc lại được không hay bị gãy mất rồi.",
+    "logic": "Răng cửa giữa vĩnh viễn 11 bị lún sâu vào trong ổ răng, ngắn hơn răng 21 bên cạnh khoảng 4mm. Răng cứng ngắc (gõ đục, không lung lay), nướu xung quanh rách rỉ máu đỏ tươi. Phim X-quang cho thấy khoảng dây chằng nha chu răng 11 biến mất, chân răng bị lún sâu hướng về hốc mũi.",
+    "diagnosis": "Lún răng chấn thương",
+    "explanation": "Chấn thương răng bị dịch chuyển theo chiều dọc vào sâu trong xương ổ răng (Intrusion), biểu hiện lâm sàng thân răng ngắn lại và gõ đục kèm mất khoảng dây chằng nha chu trên phim."
+  },
+  {
+    "id": "TRAUMA_04",
+    "image_url": "assets/images/TRAUMA_04.jpg",
+    "category": "Chấn Thương",
+    "name": "Bán trật khớp răng",
+    "patient": {
+      "name": "Nguyễn Hoàng Nam",
+      "age": 20,
+      "gender": "Nam",
+      "complaint": "Răng cửa ê buốt chói khi chạm nhẹ sau khi va chạm bóng rổ, cảm giác hơi lung lay",
+      "medical_history": "Khỏe mạnh, tai nạn xảy ra cách đây 3 tiếng."
+    },
+    "ai_persona": "Hơi lo lắng, nói chuyện thận trọng để tránh chạm hai hàm răng vào nhau. Nhấn mạnh răng không bị lệch đi đâu nhưng chạm nhẹ là nhói đau.",
+    "logic": "Răng cửa 21 không bị di lệch vị trí trên cung hàm (chiều cao và hướng bình thường). Khám thấy răng lung lay độ 1, gõ dọc và gõ ngang đều đau chói nhẹ (TTP+). Rãnh lợi nướu quanh răng có rỉ máu nhẹ. Phim X-quang thấy khoảng dây chằng nha chu vùng chóp hơi giãn nhẹ nhưng xương ổ răng nguyên vẹn.",
+    "diagnosis": "Bán trật khớp răng",
+    "explanation": "Chấn thương gây tổn thương mô nâng đỡ của răng (dây chằng nha chu) biểu hiện qua lung lay và đau chói khi gõ nhưng răng không bị di lệch khỏi vị trí gốc (Subluxation)."
+  },
+  {
+    "id": "TRAUMA_05",
+    "image_url": "assets/images/TRAUMA_05.jpg",
+    "category": "Chấn Thương",
+    "name": "Rơi răng khỏi ổ",
+    "patient": {
+      "name": "Trần Minh Quân",
+      "age": 25,
+      "gender": "Nam",
+      "complaint": "Răng cửa bị rơi hoàn toàn ra ngoài đường sau khi ngã xe đạp, tôi có mang răng ngâm trong sữa tươi theo đây",
+      "medical_history": "Khỏe mạnh, tai nạn xảy ra cách đây 45 phút."
+    },
+    "ai_persona": "Hốt hoảng và gấp gáp. Cầm lọ sữa đựng chiếc răng cửa rơi ra nộp cho bác sĩ. Rất mong muốn cấy lại chiếc răng này.",
+    "logic": "Ổ răng vùng răng 11 trống rỗng, chứa đầy cục máu đông đang hình thành, xương ổ răng xung quanh nguyên vẹn không sụp vỡ. Chiếc răng vĩnh viễn 11 mang theo còn nguyên vẹn cả thân và chân răng, được ngâm bảo quản trong sữa tươi lạnh tốt.",
+    "diagnosis": "Rơi răng khỏi ổ",
+    "explanation": "Răng bị bật hoàn toàn ra khỏi ổ răng do chấn thương cơ học trực tiếp (Avulsion). Việc bảo quản răng trong môi trường sữa tươi ấm/lạnh và đến viện sớm là điều kiện lý tưởng để cắm lại răng."
+  },
+  {
+    "id": "REST_03",
+    "image_url": "assets/images/REST_03.jpg",
+    "category": "Phục Hồi",
+    "name": "Sâu men răng (Sâu răng sớm)",
+    "patient": {
+      "name": "Lê Thu Trang",
+      "age": 18,
+      "gender": "Nữ",
+      "complaint": "Bề mặt răng hàm trên có các vết đốm màu trắng đục, không đau nhức gì",
+      "medical_history": "Đang niềng răng, vệ sinh răng miệng khó khăn."
+    },
+    "ai_persona": "Vui vẻ, đi khám định kỳ niềng răng. Thắc mắc tại sao lại có những đốm trắng này và lo sợ nó sẽ tiến triển thành sâu răng đen xấu xí.",
+    "logic": "Khám mặt ngoài các răng cửa hàm trên (xung quanh mắc cài niềng răng) có các vệt/đốm màu trắng đục (chalky white spots). Bề mặt ngà men vùng đốm trắng hơi nhám nhẹ khi rà đầu dò nhưng chưa tạo lỗ khuyết sâu. Bệnh nhân không hề ê buốt với test xịt hơi lạnh.",
+    "diagnosis": "Sâu răng",
+    "explanation": "Giai đoạn sớm của sâu răng (sâu men răng hoặc khử khoáng men) biểu hiện qua các đốm trắng đục do mất khoáng chất dưới bề mặt men, chưa có triệu chứng đau hay tạo lỗ thực thể."
+  },
+  {
+    "id": "REST_04",
+    "image_url": "assets/images/REST_04.jpg",
+    "category": "Phục Hồi",
+    "name": "Mòn cổ răng dạng Abfraction",
+    "patient": {
+      "name": "Phạm Minh Đức",
+      "age": 45,
+      "gender": "Nam",
+      "complaint": "Ê buốt chân răng hàm nhỏ khi uống bia lạnh hoặc đánh răng sáng sớm",
+      "medical_history": "Thường xuyên nghiến răng ban đêm dữ dội do áp lực công việc."
+    },
+    "ai_persona": "Thẳng thắn, chia sẻ rõ ràng. Thừa nhận vợ hay than phiền mình nghiến răng ken két lúc ngủ. Muốn giải quyết dứt điểm cơn ê buốt chân răng.",
+    "logic": "Vùng cổ răng mặt ngoài răng hàm nhỏ hàm trên 14, 15 có tổn thương khuyết góc sắc cạnh hình chêm sâu (hình chữ V hẹp). Lợi viền hơi tụt nhẹ nhưng không viêm. Răng có dấu hiệu mòn mặt nhai (mòn rìa cắn răng cửa và mòn múi răng hàm). Gõ dọc/ngang không đau.",
+    "diagnosis": "Mòn cổ răng",
+    "explanation": "Khuyết cổ răng hình chêm sắc cạnh (Abfraction) do lực uốn cong thân răng phát sinh từ thói quen nghiến răng (quá tải lực khớp cắn) làm vỡ các tinh thể men vùng cổ răng."
+  },
+  {
+    "id": "REST_05",
+    "image_url": "assets/images/REST_05.jpg",
+    "category": "Phục Hồi",
+    "name": "Sâu răng tái phát (Secondary Caries)",
+    "patient": {
+      "name": "Nguyễn Thị Minh",
+      "age": 33,
+      "gender": "Nữ",
+      "complaint": "Ê buốt nhẹ khi ăn đồ ngọt tại vị trí chiếc răng hàm đã trám Composite cũ",
+      "medical_history": "Trám răng hàm dưới này cách đây 4 năm tại một phòng khám nhỏ."
+    },
+    "ai_persona": "Thắc mắc và hơi hoài nghi. Hỏi tại sao răng đã trám rồi mà vẫn bị sâu lại được. Muốn biết có cần phải lấy tủy không.",
+    "logic": "Răng 46 có mối trám Composite ở mặt nhai. Khám thấy bờ viền mối trám bị hở, đổi màu xám đen xung quanh rìa. Dùng thám trâm rà dọc bờ viền thấy đầu thám trâm mắc kẹt vào khe hở và chạm lớp ngà mềm mủn bên dưới mối trám. Ê buốt nhẹ với hơi lạnh nhưng hết ngay.",
+    "diagnosis": "Sâu răng",
+    "explanation": "Sâu răng thứ phát (tái phát) hình thành dưới hoặc xung quanh bờ viền của mối trám cũ bị hở/vi kẽ do vi khuẩn xâm nhập tích tụ lâu ngày."
+  },
+  {
+    "id": "REST_06",
+    "image_url": "assets/images/REST_06.jpg",
+    "category": "Phục Hồi",
+    "name": "Thiếu sản men răng",
+    "patient": {
+      "name": "Hoàng Thu Trang",
+      "age": 22,
+      "gender": "Nữ",
+      "complaint": "Toàn bộ răng có màu vàng đục, bề mặt lỗ chỗ rỗ, răng rất dễ mẻ và ê buốt",
+      "medical_history": "Bị từ nhỏ, trong gia đình có bố cũng bị tình trạng răng tương tự."
+    },
+    "ai_persona": "Tự ti trầm trọng vì hàm răng xấu xí, màu vàng sậm loang lổ. Ăn uống luôn phải chọn đồ ấm, sợ đồ lạnh buốt buốt cả hàm.",
+    "logic": "Tất cả các răng trên hai cung hàm có lớp men răng rất mỏng, loang lổ các đốm màu nâu vàng ngà lộ lớp ngà bên dưới. Bề mặt men rỗ lồi lõm lỗ chỗ, rìa cắn các răng cửa dễ mẻ vỡ. Bệnh nhân ê buốt lan tỏa khi xịt hơi nước toàn hàm. Phim X-quang thấy cản quang lớp men rất mỏng khó phân biệt với ngà.",
+    "diagnosis": "Thiếu sản men răng",
+    "explanation": "Rối loạn di truyền phát triển men răng (Amelogenesis imperfecta) dẫn đến men răng mỏng, kém khoáng hóa, dễ sứt mẻ và gây quá cảm ngà toàn hàm từ nhỏ."
+  },
+  {
+    "id": "ORTHO_02",
+    "image_url": "assets/images/ORTHO_02.jpg",
+    "category": "Chỉnh Nha",
+    "name": "Khớp cắn ngược (Móm)",
+    "patient": {
+      "name": "Nguyễn Thế Anh",
+      "age": 20,
+      "gender": "Nam",
+      "complaint": "Răng hàm dưới cắn chìa ra ngoài phủ ngoài răng hàm trên, mặt lõm nghiêng móm",
+      "medical_history": "Sức khỏe tốt, gia đình có mẹ bị khớp cắn ngược."
+    },
+    "ai_persona": "Rụt rè, ít cười sảng khoái. Mong muốn chỉnh nha để mặt bớt gãy lõm và ăn nhai răng cửa tốt hơn (hiện tại không cắn đứt được sợi bún).",
+    "logic": "Khám khớp cắn thấy độ cắn chìa (overjet) âm tính (-3mm), tức nhóm răng cửa hàm dưới cắn phủ ra ngoài nhóm răng cửa hàm trên. Khớp cắn răng cối lớn hệ Angle hạng III. Profile nghiêng dạng mặt lõm (lùi tầng mặt giữa). Răng khớp không đau nhức.",
+    "diagnosis": "Khớp cắn ngược",
+    "explanation": "Sai lệch khớp cắn hạng III xương/răng (khớp cắn ngược) đặc trưng bởi răng dưới phủ ngoài răng trên khi cắn khít, ảnh hưởng thẩm mỹ mặt nghiêng móm và chức năng cắn xé."
+  },
+  {
+    "id": "ORTHO_03",
+    "image_url": "assets/images/ORTHO_03.jpg",
+    "category": "Chỉnh Nha",
+    "name": "Khớp cắn sâu",
+    "patient": {
+      "name": "Lê Thu Hương",
+      "age": 16,
+      "gender": "Nữ",
+      "complaint": "Khi cắn chặt răng lại thì không thấy nhóm răng cửa hàm dưới đâu cả, rìa răng cửa dưới hay đâm vào nướu trên",
+      "medical_history": "Không có bệnh lý nền."
+    },
+    "ai_persona": "Đi cùng phụ huynh, mong muốn niềng răng. Than phiền thỉnh thoảng nướu mặt trong răng cửa trên bị loét đau do răng dưới cắn chạm vào.",
+    "logic": "Độ cắn phủ (overbite) tăng rất lớn (khoảng 6mm, tương đương 100% chiều cao thân răng cửa dưới). Nhóm răng cửa dưới cắn chạm hoàn toàn vào vùng nướu vòm miệng phía trong của nhóm răng cửa trên. Đường cong Spee sâu. Hệ răng không sâu răng.",
+    "diagnosis": "Khớp cắn sâu",
+    "explanation": "Độ cắn phủ theo chiều đứng quá mức (khớp cắn sâu) khiến răng cửa trên che khuất hoàn toàn răng cửa dưới, dễ gây chấn thương niêm mạc vòm miệng và quá tải lực khớp cắn."
+  },
+  {
+    "id": "ORTHO_04",
+    "image_url": "assets/images/ORTHO_04.jpg",
+    "category": "Chỉnh Nha",
+    "name": "Khớp cắn hở",
+    "patient": {
+      "name": "Phạm Hải Yến",
+      "age": 19,
+      "gender": "Nữ",
+      "complaint": "Cắn chặt răng hàm lại mà các răng phía trước vẫn hở một khoảng lớn, không thể cắn đứt thức ăn bằng răng cửa",
+      "medical_history": "Có thói quen đẩy lưỡi khi nuốt và mút ngón tay cái hồi nhỏ."
+    },
+    "ai_persona": "Cởi mở, hợp tác. Rất phiền lòng vì phát âm một số âm (như s, x) bị lọt gió hơi ngọng và không cắn đứt được bánh mì bằng răng trước.",
+    "logic": "Khám cắn khít hoàn toàn ở vùng răng hàm phía sau, nhưng nhóm răng cửa và răng nanh trên dưới không chạm nhau theo chiều đứng, tạo khoảng hở lớn khoảng 4mm (khớp cắn hở vùng răng trước). Có dấu vết thói quen đẩy lưỡi ra trước khi nuốt.",
+    "diagnosis": "Khớp cắn hở",
+    "explanation": "Sự thiếu tiếp xúc khớp cắn giữa các răng hàm trên và dưới theo chiều đứng ở vùng răng trước khi răng sau cắn khít tối đa, liên quan thói quen đẩy lưỡi hoặc mút tay."
+  },
+  {
+    "id": "PROS_02",
+    "image_url": "assets/images/PROS_02.jpg",
+    "category": "Phục Hình",
+    "name": "Mất răng toàn bộ hai hàm",
+    "patient": {
+      "name": "Cụ ông Lê Văn Đờn",
+      "age": 72,
+      "gender": "Nam",
+      "complaint": "Rụng sạch toàn bộ hai hàm răng từ lâu, móm mém không nhai được cơm phải ăn cháo loãng",
+      "medical_history": "Loãng xương nhẹ, huyết áp người già ổn định."
+    },
+    "ai_persona": "Cụ nói thều thào móm mém, má hóp sâu da nhăn nheo, cử động môi lưỡi hạn chế. Rất mong muốn làm một bộ răng giả tháo lắp để ăn uống ngon miệng hơn dưỡng tuổi già.",
+    "logic": "Mất răng toàn bộ cả hai hàm trên và dưới. Sống hàm tiêu xương nhiều dẹt phẳng, niêm mạc nướu teo mỏng màu hồng nhạt. Khoảng cách dọc tầng mặt dưới giảm rõ rệt làm cằm nhô ra trước (dáng mặt móm mém móm nặng).",
+    "diagnosis": "Mất răng",
+    "explanation": "Mất răng toàn bộ hai cung hàm (Edentulism) dẫn đến mất chức năng nhai, tiêu xương ổ răng sống hàm nghiêm trọng và giảm chiều cao tầng mặt dưới."
+  },
+  {
+    "id": "PROS_03",
+    "image_url": "assets/images/PROS_03.jpg",
+    "category": "Phục Hình",
+    "name": "Mất răng bán phần Kennedy Class I",
+    "patient": {
+      "name": "Trần Văn Khang",
+      "age": 55,
+      "gender": "Nam",
+      "complaint": "Mất hết nhóm răng hàm phía sau ở cả hai bên hàm dưới, chỉ còn lại nhóm răng cửa phía trước",
+      "medical_history": "Không có tiền sử bệnh lý đặc biệt."
+    },
+    "ai_persona": "Hợp tác tốt. Kể rằng nhổ các răng hàm bị lung lay cách đây 3 năm, nay chỉ nhai bằng răng cửa trước thấy rất mỏi hàm và răng trước bắt đầu hơi thưa ra.",
+    "logic": "Mất toàn bộ các răng hàm nhỏ và hàm lớn hàm dưới cả hai bên (mất răng từ răng 34 đến 38 và từ răng 44 đến 48). Chỉ còn lại nhóm răng cửa và răng nanh phía trước (từ răng 33 đến 43). Khoảng mất răng lành thương phẳng tốt.",
+    "diagnosis": "Mất răng",
+    "explanation": "Phân loại mất răng bán phần Kennedy nhóm I: Mất răng ở cả hai bên nằm về phía sau của các răng tự nhiên còn lại (khoảng mất răng tận cùng hai bên), gây suy giảm lực nhai trầm trọng."
+  },
+  {
+    "id": "PROS_04",
+    "image_url": "assets/images/PROS_04.jpg",
+    "category": "Phục Hình",
+    "name": "Mất răng bán phần Kennedy Class II",
+    "patient": {
+      "name": "Phùng Văn Tấn",
+      "age": 50,
+      "gender": "Nam",
+      "complaint": "Mất toàn bộ các răng hàm lớn phía bên trái hàm dưới, bên phải vẫn còn răng ăn nhai",
+      "medical_history": "Bình thường."
+    },
+    "ai_persona": "Thoải mái, nói chuyện tự nhiên. Chia sẻ thói quen chỉ nhai lệch một bên phải do bên trái bị mất sạch răng hàm.",
+    "logic": "Mất các răng 36, 37, 38 hàm dưới trái (khoảng mất răng tận cùng một bên trái). Bên phải cung hàm vẫn còn đầy đủ các răng hàm. Răng đối diện 26, 27 có dấu hiệu trồi nhẹ xuống dưới.",
+    "diagnosis": "Mất răng",
+    "explanation": "Phân loại mất răng bán phần Kennedy nhóm II: Mất răng một bên nằm về phía sau của các răng tự nhiên còn lại (khoảng mất răng tận cùng một bên), dẫn đến thói quen nhai lệch bên."
   }
 ]
